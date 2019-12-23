@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Liqirui/Liqirui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[test Page](https://github.com/Liqirui/Liqirui.github.io/master/test.md)
+[test Page](https://Liqirui.github.io/master/test.md)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
